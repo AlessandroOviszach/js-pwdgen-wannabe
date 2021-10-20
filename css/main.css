@@ -1,0 +1,21 @@
+
+/* general styles */
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+/* utilities */
+ol {
+    list-style: none;
+}
+
+span {
+    font-weight: 700;
+}
+
+.title-password,
+#password {
+    display: inline;
+    padding-right: 20px;
+}
